@@ -16,7 +16,8 @@ Delete anything you don't need. For more see sample files see:
 - https://github.com/github/gitignore
 
 ## Vagrantfiles
-To use, download the file and rename it to `Vagrantfile`
+To use, download the file and rename it to `Vagrantfile`. Feel free to edit the file as needed.
+
 ### python-psql-Vagrantfile
 - uses the **bento/ubuntu-16.04-i386** box
 - installs:
